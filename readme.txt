@@ -14,5 +14,3 @@ I will upload this code to my GitHub for any contribution to others.
 I hope this helps to give you an idea of how I might design a web page. 
 
 thanks.
-
-LmARUXpaW2
